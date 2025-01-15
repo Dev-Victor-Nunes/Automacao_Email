@@ -7,5 +7,11 @@
 
  ## Demonstração
 
+ ```bash
+  import smtplib
+  from email.mime.text import MIMEText
+  from email.mime.multipart import MIMEMultipart
+```
+
   ![Demonstracao](https://github.com/Dev-Victor-Nunes/Automacao_Email/blob/main/testeEnvio2.PNG)
   
