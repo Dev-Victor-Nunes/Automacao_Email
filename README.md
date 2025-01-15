@@ -18,11 +18,11 @@
 
   #informações do email para enviar
   dest = ""
-
-  [...]
+  assunto = "teste de envio"
+  corpo = "Olá este é um email de teste"
  ```
 
-  ![Demonstracao](https://github.com/Dev-Victor-Nunes/Automacao_Email/blob/main/testeEnvio2.PNG)
+  ![Demonstracao](https://github.com/Dev-Victor-Nunes/Automacao_Email/blob/main/TesteF.PNG)
 
   ## Autores
 
