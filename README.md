@@ -22,17 +22,16 @@
   assunto = "teste de envio"
   corpo = "Olá este é um email de teste"
  ```
+ <img src = "https://github.com/Dev-Victor-Nunes/Automacao_Email/blob/main/TesteF.PNG" width="600px"/>
 
-  ![Demonstracao](https://github.com/Dev-Victor-Nunes/Automacao_Email/blob/main/TesteF.PNG)
-  
+***
  ### [Código para automação de leitura de e-mails.]()
  
  ```bash
   pip instal imap_tools
  ```
+ <img src = "https://github.com/Dev-Victor-Nunes/Automacao_Email/blob/main/LeituraEmail.PNG" width="999px"/>
 
-  
-  
 
   ## Autores
 
