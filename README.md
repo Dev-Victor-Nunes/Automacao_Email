@@ -33,7 +33,7 @@
  <img src = "https://github.com/Dev-Victor-Nunes/Automacao_Email/blob/main/LeituraEmail.PNG" width="999px"/>
 
 
-  ## Autores
+  ## 🖋 Autoria
 
 - [Victor Nunes Paixão]()
   
